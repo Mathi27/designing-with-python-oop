@@ -8,5 +8,5 @@ class Student:
 
 s1 = Student("Mathi")
 
-
+#lets print
 print(s1.name)
