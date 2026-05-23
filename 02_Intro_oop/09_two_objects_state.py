@@ -8,7 +8,7 @@ class BankAccount:
     def deposit(self, amount):
         self.balance += amount
 
-# assign
+# assign : 
 
 a1 = BankAccount("Mathi", 1000)
 a2 = BankAccount("Kumar", 500)
