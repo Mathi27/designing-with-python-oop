@@ -10,6 +10,6 @@ class Employee:
 
 e1 = Employee("Mathi")
 e2 = Employee("Kumar", 50000)
-
+#print
 print(e1.name, e1.salary)
 print(e2.name, e2.salary)
