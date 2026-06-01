@@ -7,6 +7,7 @@ class Employee:
         self.salary = salary
 
 
+
 e1 = Employee("Mathi")
 e2 = Employee("Kumar", 50000)
 
