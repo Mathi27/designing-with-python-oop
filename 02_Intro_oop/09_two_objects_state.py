@@ -9,6 +9,7 @@ class BankAccount:
         self.balance += amount
 
 # assign
+
 a1 = BankAccount("Mathi", 1000)
 a2 = BankAccount("Kumar", 500)
 
